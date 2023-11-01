@@ -1,13 +1,18 @@
 {
   "name": "modul6-kelxx-pwa2",
   "version": "0.1.0",
+  "description": "Praktikum PPB PWA 2",
+  "author": "Asisten PPB PWA 2 ",
+  "license": "UNLICENSED",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.6.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^6.17.0",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4",
     "workbox-background-sync": "^6.6.0",
